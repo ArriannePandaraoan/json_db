@@ -3,10 +3,18 @@
     {
       "name": "Corn",
       "description": "Corn is a tall annual cereal grass",
-      "population": 20000,
-      "cost": 2810,
-      "remark": "*Seed Cost per bag (Population/80,000 K) x (₱/bag)",
+      "quantity": 20000,
+      "price": 2810,
+      "remark": "*Seed price per bag (quantity/80,000 K) x (₱/bag)",
       "id": 1
+    },
+    {
+      "name": "Pumpkin",
+      "description": "NPK (100 lb/acre), (50 lb/acre), ((110 lb/acre)",
+      "quantity": 1000,
+      "price": 2698.65,
+      "remark": "NA",
+      "id": 2
     }
   ]
 }
