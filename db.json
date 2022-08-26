@@ -1,0 +1,12 @@
+{
+  "crops": [
+    {
+      "name": "Corn",
+      "description": "Corn is a tall annual cereal grass",
+      "population": 20000,
+      "cost": 2810,
+      "remark": "*Seed Cost per bag (Population/80,000 K) x (₱/bag)",
+      "id": 1
+    }
+  ]
+}
